@@ -26,6 +26,8 @@ Takımlara ait chairman videolarını youtube'de bulabilirsiniz.
 
 ### Woodie Flowers
 
+{% file src="../.gitbook/assets/6431SedatWWFA.pdf" caption="6431 - Woodie Flowers 2023" %}
+
 {% file src="../.gitbook/assets/woodie-flowers-8208.pdf" caption="8208 - Woodie Flowers 2020" %}
 
 {% file src="../.gitbook/assets/techtolia-woodie-flower.docx" caption="7748 - Woodie Flowers 2020" %}
