@@ -6,6 +6,8 @@ description: buradan takımların geçmiş yıllara ait iş planlarını bulabil
 
 Veteran yıllarına ait iş planları
 
+{% file src="../.gitbook/assets/np-business-plan.pdf" caption="6431 NoktaParantez 2025 Business Plan" %}
+
 {% file src="../.gitbook/assets/techtolia-business-plan.pdf" caption="7748 Techtolia 2020 Business Plan" %}
 
 Rookie yıllarına ait iş planları
